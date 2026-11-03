@@ -1,0 +1,18 @@
+# InPTA DR2 timing repository, cloned separately (see README)
+InPTA.DR2.NA/
+
+# LaTeX tables written by scripts/09
+thesis/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
