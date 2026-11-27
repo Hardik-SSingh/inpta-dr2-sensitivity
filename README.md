@@ -73,6 +73,7 @@ are exploratory.
 | `16_chromatic_extrapolation_robustness.py` | Band ordering when high-χ pulsars are removed |
 | `17_whitenoise_stress_test.py` | Tolerance to error in the white-noise proxy (r_crit = 2.1) |
 | `18_bandwidth_integration.py` | Band-averaged vs band-centre chromatic factor |
+| `22_paper_figures.py` | The five figures in the paper (writes `paper_figures/`) |
 
 ## Regression test
 

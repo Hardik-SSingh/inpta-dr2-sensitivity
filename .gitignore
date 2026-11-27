@@ -16,3 +16,7 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Outputs of scripts/22_paper_figures.py
+paper_figures/
+paper_curves.npz
